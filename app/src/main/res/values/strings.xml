@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app-bar-bottom</string>
+    <string name="search">Search</string>
+    <string name="content_description_search">Search Content</string>
+    <string name="more">More</string>
+    <string name="content_description_more">More Content</string>
+</resources>
